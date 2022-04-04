@@ -1,5 +1,5 @@
 # bulldozer_price_prediction_project
-In this project i am going to be predicting sale price of bulldozer.
+In this project i am going to be predicting sales price of a bulldozer.
 
 ## 1. Problem Definition 
 How well can i predict the furture sale price of a bulldozer given it charateristics and previous examples on how much similar bulldozer have been sold before.
