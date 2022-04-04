@@ -16,6 +16,9 @@ This data is split into three parts:
 
 * Test.csv is the test set, which won't be released until the last week of the competition. It contains data from May 1, 2012 - November 2012. Your score on the test set determines your final rank for the competition.
 
+   <img width="726" alt="Screenshot 2022-04-04 at 02 33 52" src="https://user-images.githubusercontent.com/56441231/161460065-519d8e9f-e124-49da-bc47-b41095af1389.png">
+
+
 ## 3. Evaluation
 * The evaluation metric for this competition is the RMSLE (root mean squared log error) between the actual and predicted auction prices.
 For more on Evaluation for this project Check: https://www.kaggle.com/competitions/bluebook-for-bulldozers/overview/evaluation
