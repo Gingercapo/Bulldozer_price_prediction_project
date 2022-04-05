@@ -26,3 +26,6 @@ For more on Evaluation for this project Check: https://www.kaggle.com/competitio
 
 ## 4. Features
 Kaggles provides a data dictionary datailing all of the features of the dataset. You can view this data dictionary on google-sheet: https://www.kaggle.com/competitions/bluebook-for-bulldozers/data?select=Data+Dictionary.xlsx
+
+Solution Author
+Obianonwo Chinedu
